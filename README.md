@@ -1,8 +1,10 @@
-# Name Developer : AmirHossein Rashid
-# Instageram : Amirhossin.12rashid.82@gmail.com
-# email : AmirHosseinRashid_
+Name Developer : AmirHossein Rashid
+ 
+email : Amirhossin.12rashid.82@gmail.com
+ 
+instageram : AmirHosseinRashid_
 
-https://s2.uupload.ir/files/screenshot_1680737637_urje.png
+
 # flutter_application_instageram
 
 A new Flutter project.
